@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/rishabhkumar/Desktop/drug-traceability-dapp/contracts/DrugTraceability.sol": {
+      "lastModificationDate": 1762085978234,
+      "contentHash": "d06680e665549d992310eb37c9ddf5d9",
+      "sourceName": "contracts/DrugTraceability.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "DrugTraceability"
+      ]
+    }
+  }
+}
