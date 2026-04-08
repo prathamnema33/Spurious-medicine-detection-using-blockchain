@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spurious-medicine-detection-using-blockchain/static/css/main.cf890fdb.css",
+    "main.js": "/Spurious-medicine-detection-using-blockchain/static/js/main.7d534271.js",
+    "static/js/453.b153e62b.chunk.js": "/Spurious-medicine-detection-using-blockchain/static/js/453.b153e62b.chunk.js",
+    "index.html": "/Spurious-medicine-detection-using-blockchain/index.html",
+    "main.cf890fdb.css.map": "/Spurious-medicine-detection-using-blockchain/static/css/main.cf890fdb.css.map",
+    "main.7d534271.js.map": "/Spurious-medicine-detection-using-blockchain/static/js/main.7d534271.js.map",
+    "453.b153e62b.chunk.js.map": "/Spurious-medicine-detection-using-blockchain/static/js/453.b153e62b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.7d534271.js"
+  ]
+}
